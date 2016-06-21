@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
+    <option name="defaultScopeName" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
+    <option name="SEARCH_SCOPE" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
+  </component>
+</application>
