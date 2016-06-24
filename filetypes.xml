@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wav" type="Native" />
       <mapping pattern="brand" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
