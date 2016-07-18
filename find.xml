@@ -3,5 +3,19 @@
     <option name="customScope" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
     <option name="defaultScopeName" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
     <option name="SEARCH_SCOPE" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
+    <option name="FILE_MASK" value="*.po" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.po</mask>
+    </recentFileMasks>
   </component>
 </application>
