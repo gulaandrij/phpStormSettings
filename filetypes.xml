@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wav" type="Native" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="brand" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
