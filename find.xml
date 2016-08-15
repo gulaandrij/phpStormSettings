@@ -3,7 +3,7 @@
     <option name="customScope" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
     <option name="defaultScopeName" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
     <option name="SEARCH_SCOPE" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php,*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +16,7 @@
       <mask>*.mxml</mask>
       <mask>*.po</mask>
       <mask>*.php</mask>
+      <mask>*.php,*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
