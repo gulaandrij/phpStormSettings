@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
-    <option name="defaultScopeName" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
-    <option name="SEARCH_SCOPE" value="File '/var/www/t1.loc/application/modules/CMSFactory/MetaManipulator/MetaStorage.php'" />
+    <option name="customScope" value="Directory '[t1.loc] - ...'" />
+    <option name="defaultScopeName" value="Directory '[t1.loc] - ...'" />
+    <option name="SEARCH_SCOPE" value="Directory '[t1.loc] - ...'" />
     <option name="FILE_MASK" value="*.php,*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
