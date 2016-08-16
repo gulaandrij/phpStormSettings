@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[t1.loc] - ...'" />
-    <option name="defaultScopeName" value="Directory '[t1.loc] - ...'" />
-    <option name="SEARCH_SCOPE" value="Directory '[t1.loc] - ...'" />
+    <option name="customScope" value="Directory '[t1.loc] - .../application/models'" />
+    <option name="defaultScopeName" value="Directory '[t1.loc] - .../application/models'" />
+    <option name="SEARCH_SCOPE" value="Directory '[t1.loc] - .../application/models'" />
     <option name="FILE_MASK" value="*.php,*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
