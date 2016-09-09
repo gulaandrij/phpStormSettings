@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wav" type="Native" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".revision" type="PLAIN_TEXT" />
       <mapping pattern="brand" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
