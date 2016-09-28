@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[t1.loc] - .../application/helpers'" />
     <option name="defaultScopeName" value="Directory '[t1.loc] - .../application/helpers'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[t1.loc] - .../application/helpers'" />
     <recentFileMasks>
       <mask>*.properties</mask>
